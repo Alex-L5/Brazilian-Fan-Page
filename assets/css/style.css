@@ -95,6 +95,7 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+    background-color: rgba(128, 128, 128, 0.39);
 }
 
 /* Hero section */
