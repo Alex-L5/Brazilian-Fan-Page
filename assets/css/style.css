@@ -150,6 +150,16 @@ main {
     justify-content: center;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 /* Meetup Times section */
 #times {
     background: url('../images/dublin-city.webp') no-repeat center/cover;
@@ -176,15 +186,7 @@ main {
     color: #fafafa;
 }
 
-/* Gallery page */
-#photos img {
-    width: 100%;
-    line-height: 1em;
-}
 
-#photos {
-    line-height: 0;
-}
 
 /* Form */
 #signup {
